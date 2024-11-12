@@ -6,10 +6,9 @@ To find (a) average number of materials in the system (b) average number of mate
 ## Software required :
 Visual components and Python
 
-## Theory
+## Theory:
 
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
-
 
 ## Procedure :
 
@@ -18,10 +17,16 @@ Visual components and Python
 
 ## Experiment:
 
+![image](https://github.com/user-attachments/assets/381895ff-80f9-4ae7-9584-b5a02cd28846)
 
-## Program
+![image](https://github.com/user-attachments/assets/536da3b8-1bb8-4646-8d55-186f8113b1b7)
 
 
-## Output
+## Program:
+```
+
+```
+## Output:
+
 
 ## Result
